@@ -27,21 +27,21 @@ The data were also converted from `.csv` to `.gpx` format using GPS Visualizer t
 **Figure 1 — Individual Migration Tracks**  
 Each color represents a unique tagged individual. Tracks radiate outward from the Chagos Archipelago tagging site across the Western Indian Ocean toward foraging grounds along the East African coast and surrounding seamounts.
 
-![Migration Tracks](map2.png)
+![Migration Tracks](migration-tracks.png)
 
 ---
 
 **Figure 2 — Habitat Use & Migration (Heatmap + Paths)**  
 Kernel density heatmap overlaid with migration path lines. The intense red hotspot at Chagos reflects the high density of GPS fixes at the nesting/tagging site. Softer pink regions indicate foraging area concentrations west of the archipelago.
 
-![Habitat Use and Migration](map1.png)
+![Habitat Use and Migration](habitat-use-migration.png)
 
 ---
 
 **Figure 3 — Chagos Departure Tracks & Foraging Hotspots**  
 Zoomed view centered on the Chagos Archipelago showing individual departure trajectories and nearby foraging hotspots. The bathymetric texture of the satellite basemap reveals the mid-ocean ridge system that the turtles navigate across during migration.
 
-![Chagos Departure Tracks](map3.png)
+![Chagos Departure Tracks](chagos-departure-tracks.png)
 
 ---
 
