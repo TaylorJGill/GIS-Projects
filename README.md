@@ -10,9 +10,14 @@ Terrain analysis of St. Lucia using SRTM 30m DEM in QGIS. Includes hillshade, as
 ### [Green Sea Turtle Migration & Habitat Use](./green-turtle-migration/)
 Visualization and spatial analysis of GPS satellite telemetry from green sea turtles (*Chelonia mydas*) tagged at the Chagos Archipelago, Western Indian Ocean. Includes GPS/CSV import workflows, categorized symbology, Points to Path trajectory generation, kernel density heatmapping, and GPX file conversion in QGIS.
 
+### [Mangrove Vector Analysis](./mangrove-vector-analysis/)
+Quantification of mangrove coverage within Large Marine Ecosystem buffer zones across Southeast Asia and the Western Pacific. Demonstrates vector analysis workflows including clip, buffer, intersect, dissolve, spatial join, and area calculation in QGIS.
+
 ## Tools & Technologies
 - QGIS
 - SRTM 30m DEM
 - Movebank GPS telemetry data
 - Remote Sensing
 - Google Satellite basemap (XYZ tiles)
+- Vector analysis (clip, buffer, intersect, dissolve)
+- Global Mangrove Watch data
