@@ -7,8 +7,8 @@ This project visualizes satellite telemetry data from green sea turtles tagged a
 
 ## Data Source
 
-**Hays, G.** (2013). Data from: "Green turtles (*Chelonia mydas*); Hays; Chagos Archipelago, Western Indian Ocean." Movebank Data Repository.  
-[https://www.movebank.org](https://www.movebank.org)
+Hays GC, Esteban N, Rattray A. 2024. Data from: Study "Green turtles (*Chelonia Mydas*); Hays; Chagos Archipelago, Western Indian Ocean". Movebank Data Repository.  
+[https://doi.org/10.5441/001/1.313](https://doi.org/10.5441/001/1.313)
 
 ---
 
